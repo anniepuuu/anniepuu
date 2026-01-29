@@ -187,6 +187,11 @@ html {
     font-size: 1.125rem;
 }
 
+.section-content a {
+    margin-bottom: 1rem;
+    line-height: 1.625;
+}
+
 .section-content p:last-child {
     margin-bottom: 0;
 }
@@ -196,6 +201,7 @@ a {
     color: #dc2626;
     text-decoration: none;
     transition: all 0.3s ease;
+    font-size: inherit;
 }
 
 a:hover {
