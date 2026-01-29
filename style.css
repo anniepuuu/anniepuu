@@ -190,6 +190,18 @@ html {
     margin-bottom: 0;
 }
 
+/* Links */
+a {
+    color: #dc2626;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #991b1b;
+    text-decoration: underline;
+}
+
 /* Footer */
 .footer {
     border-top: 1px solid rgba(69, 10, 10, 0.2);
