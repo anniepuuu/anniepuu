@@ -180,7 +180,8 @@ html {
     max-width: none;
 }
 
-.section-content p {
+.section-content p,
+.section-content li {
     margin-bottom: 1rem;
     line-height: 1.625;
     font-size: 1.125rem;
